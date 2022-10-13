@@ -1,2 +1,2 @@
-# Numbers-guessing-game-1-
-Link to the replit page -[https://Numbers-guessing-game-1.joshuaroland.repl.co](https://replit.com/@JoshuaRoland/Numbers-guessing-game#index.html)
+# Numbers-guessing-game
+Link to the replit page -[https://replit.com/@JoshuaRoland/Numbers-guessing-game#index.html](https://replit.com/@JoshuaRoland/Numbers-guessing-game#index.html)
